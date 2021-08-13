@@ -1,0 +1,2 @@
+GET https://lucid-detroit.com/chat/
+Content-Type: application/json
